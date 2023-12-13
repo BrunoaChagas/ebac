@@ -1,0 +1,6 @@
+Ciência de dados em Atacadistas
+
+-Predição da demanda de estoque seja por crescimento natural de certo segmento ou por eventos sazonais.
+-Análise de quais descontos/ofertas atraem mais clientes para a loja
+-Compreensão de qual disposição de produtos e exposições acabam agragando mais valor ao ticket médio do cliente.
+-Predição de saída de produtos evitando eventuais percas por estoque muito alto(Sendo necessário trabalhá-lo com menor margem ou perdê-lo por conta do prazo de validade.)
